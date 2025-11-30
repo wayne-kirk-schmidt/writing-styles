@@ -1,7 +1,8 @@
 # General Report Template
 
 This is a guideline for you to think about the writing process. 
-Whtether you have more or less sections and items you want to:
+
+Whether you have more or less sections and items you want to:
 * Have the writing have a structure
 * Have the structure follow a flow of thought
 * Have each step of the structure support the previous step
