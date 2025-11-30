@@ -1,5 +1,12 @@
 # Research Report Template (Table Format)
 
+This is a guideline for you to think about the writing process. 
+
+Whether you have more or less sections and items you want to:
+* Have the writing have a structure
+* Have the structure follow a flow of thought
+* Have each step of the structure support the previous step
+
 ## Section Table
 
 | Section | Name | Description |
