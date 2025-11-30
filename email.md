@@ -1,4 +1,4 @@
-# Email Template (with Collapsible Sections)
+# Email Template - Collapsing Sections
 
 Below is a modular email template.  
 Expand each component to see structure, examples, and usage notes.
