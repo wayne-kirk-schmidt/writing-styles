@@ -12,6 +12,8 @@ A consistent, extensible library of writing templates for reports, applications,
 | **Email Template** | [t_email.md](t_email.md) | [c_email.md](c_email.md) |
 | **College Application** | [t_college_application.md](t_college_application.md) | [c_college_application.md](c_college_application.md) |
 | **Resume** | [t_resume.md](t_resume.md) | [c_resume.md](c_resume.md) |
+| **Cover Letter** | [t_cover_letter.md](t_cover_letter.md) | [c_cover_letter.md](c_cover_letter.md) |
+
 
 ### Legend
 
@@ -35,8 +37,6 @@ Each template is provided in **two formats**:
 
 ## Future Templates
 
-- Resume — `t_resume.md`, `c_resume.md`  
-- Cover Letter — `t_cover_letter.md`, `c_cover_letter.md`  
 - Executive Summary — `t_executive_summary.md`, `c_executive_summary.md`  
 - Technical Architecture Doc — `t_tech_arch.md`, `c_tech_arch.md`  
 - Memo — `t_memo.md`, `c_memo.md`  
