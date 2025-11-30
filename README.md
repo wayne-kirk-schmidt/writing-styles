@@ -11,6 +11,7 @@ A consistent, extensible library of writing templates for reports, applications,
 | **General Report** | [t_general_report.md](t_general_report.md) | [c_general_report.md](c_general_report.md) |
 | **Email Template** | [t_email.md](t_email.md) | [c_email.md](c_email.md) |
 | **College Application** | [t_college_application.md](t_college_application.md) | [c_college_application.md](c_college_application.md) |
+| **Resume** | [t_resume.md](t_resume.md) | [c_resume.md](c_resume.md) |
 
 ### Legend
 
