@@ -3,8 +3,8 @@
 A consistent, extensible library of writing templates for reports, applications, communication, and academic work.  
 Each template is provided in **two formats**:
 
-- **Table Version** — Clean, scannable, ideal for documentation and reference  
-- **Collapsible Version** — Interactive `<details>` format for drafting and teaching  
+- **t_ = Table Version** — clean, scannable, reference-friendly  
+- **c_ = Collapsible Version** — interactive `<details>` sections for drafting and teaching  
 
 ---
 
@@ -12,47 +12,43 @@ Each template is provided in **two formats**:
 
 | Template | Table Version | Collapsible Version |
 |----------|----------------|----------------------|
-| **Research Report** | [research_report_table.md](research_report_table.md) | [research_report.md](research_report.md) |
-| **General Report** | [general_report_table.md](general_report_table.md) | [general_report.md](general_report.md) |
-| **Email Template** | [email_table.md](email_table.md) | [email.md](email.md) |
-| **College Application** | [college_application_table.md](college_application_table.md) | [college_application.md](college_application.md) |
+| **Research Report** | [t_research_report.md](t_research_report.md) | [c_research_report.md](c_research_report.md) |
+| **General Report** | [t_general_report.md](t_general_report.md) | [c_general_report.md](c_general_report.md) |
+| **Email Template** | [t_email.md](t_email.md) | [c_email.md](c_email.md) |
+| **College Application** | [t_college_application.md](t_college_application.md) | [c_college_application.md](c_college_application.md) |
 
 ---
 
 ## How to Use
 
-- **Reference Quickly:** Use the *Table Version* to understand the structure, sections, and purpose of each part.  
-- **Draft Interactively:** Use the *Collapsible Version* when writing — expand only the sections you need.  
-- **Stay Consistent:** All templates use hierarchical numbering (1, 1.1, 1.2, etc.) for clarity and easy navigation.  
-- **Extend Easily:** Add more templates following the same pattern for a unified toolkit.
+- Use **table templates** for quick reference and planning  
+- Use **collapsible templates** for drafting and structured writing  
+- All templates follow a consistent numbering system (1, 1.1, 1.2…)  
+- New templates follow the naming convention:  
+  - `t_<name>.md`  
+  - `c_<name>.md`
 
 ---
 
-## Future Templates (Planned)
+## Future Templates
 
-These will be added next:
-
-- **Resume** (table + collapsible)  
-- **Cover Letter** (table + collapsible)  
-- **Executive Summary** (table + collapsible)  
-- **Technical Architecture Document** (table + collapsible)  
-- **Memo** (table + collapsible)  
-- **Grant Application** (table + collapsible)  
-- **Incident Report** (table + collapsible)  
-- **Presentation Script** (table + collapsible)  
-
-If you want to prioritize or rearrange, adjust the list as needed.
+- Resume — `t_resume.md`, `c_resume.md`  
+- Cover Letter — `t_cover_letter.md`, `c_cover_letter.md`  
+- Executive Summary — `t_executive_summary.md`, `c_executive_summary.md`  
+- Technical Architecture Doc — `t_tech_arch.md`, `c_tech_arch.md`  
+- Memo — `t_memo.md`, `c_memo.md`  
+- Grant Application — `t_grant_app.md`, `c_grant_app.md`  
+- Incident Report — `t_incident_report.md`, `c_incident_report.md`  
+- Presentation Script — `t_presentation.md`, `c_presentation.md`  
 
 ---
 
 ## Versioning
 
-Templates evolve over time.  
-Use semantic versioning when updating:
-
-- `v1.x` — structural refinements  
-- `v2.x` — new sections or reorganizations  
-- `v3.x` — major redesign or category shift  
+Use semantic versioning for template updates:  
+- `v1.x` — edits  
+- `v2.x` — new sections  
+- `v3.x` — structural redesigns  
 
 ---
 
@@ -60,10 +56,8 @@ Use semantic versioning when updating:
 
 To add a new template:
 
-1. Create `[name]_table.md`  
-2. Create `[name].md` with collapsible sections  
-3. Add both to this README table under **Templates**  
-4. Maintain the numbering structure and section logic  
-
-This ensures all templates remain coherent and interoperable.
+1. Create `t_<name>.md`  
+2. Create `c_<name>.md`  
+3. Add both to the table above  
+4. Maintain consistent numbering and section structure  
 
