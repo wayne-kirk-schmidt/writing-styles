@@ -4,7 +4,7 @@ This library contains reusable writing templates.
 
 ## Available Templates
 - [Research Report](research_report.md)
-- (Future) Normal Report
+- [Noprmal Report](normal_report.md)
 - (Future) Application
 - (Future) Email
 
