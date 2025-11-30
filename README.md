@@ -6,6 +6,5 @@ This library contains reusable writing templates.
 - [Research Report](research_report.md)
 - [Normal Report](normal_report.md)
 - (Future) Application
-- (Future) Email
+- [Email](email.md)
 
-Add new templates here as the library grows.
