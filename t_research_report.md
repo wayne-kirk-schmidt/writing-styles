@@ -12,10 +12,10 @@ Whether you have more or less sections and items you want to:
 | Section | Name | Description |
 |--------|------|-------------|
 | **1** | Introduction | Define the topic, explain context, state relevance, narrow the scope. |
-| ** | Topic Definition | Briefly describe the subject being investigated. |
-| ** | Context | Explain the relevant background the reader needs. |
-| ** | Importance | Clarify why this topic matters now. |
-| ** | Focus Narrowing | Specify the exact angle your paper will address. |
+| * | Topic Definition | Briefly describe the subject being investigated. |
+| * | Context | Explain the relevant background the reader needs. |
+| * | Importance | Clarify why this topic matters now. |
+| * | Focus Narrowing | Specify the exact angle your paper will address. |
 | **2** | Thesis Statement | Present the core question or claim and purpose of the analysis. |
 | 2.1 | Research Question | State the main question or thesis guiding the paper. |
 | 2.2 | Purpose | Explain what you intend to uncover or demonstrate. |
