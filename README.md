@@ -1,5 +1,16 @@
-# Template Library
-A library of writing templates for reports, applications, communication, and academic work.  
+# Template Library and Approach to Writing
+
+Writing a strong report is like crossing a stream: each step matters, and each stone is an idea that moves you forward with purpose. 
+The template doesn’t tell you what to think—it simply shows the order of the stones so you can focus on your argument. 
+You choose the topic, you set the thesis, and you use the structure to keep your thinking on track.
+
+When you write, be clear. Make a point, support it, and show how it connects to your thesis. 
+If your ideas shift as you go, good. That means you’re figuring out what you want to say.
+Simple, direct language is usually strongest because it makes your argument easier to follow.
+
+After you have a draft, refine it: tighten the language, set the tone you want, and add your sources. 
+The structure guides you, but the clarity, discipline, and voice are entirely yours.
+
 ---
 ## General Approach
 | Step | Description |
