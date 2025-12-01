@@ -1,4 +1,4 @@
-# Template Library and Approach to Writing
+# Approach to Writing and Sample Templates
 
 Writing a strong report is like crossing a stream: each step matters, and each stone is an idea that moves you forward with purpose. 
 The template doesn’t tell you what to think—it simply shows the order of the stones so you can focus on your argument. 
@@ -28,7 +28,7 @@ The structure guides you, but the clarity, discipline, and voice are entirely yo
 | 11. Revise for tone | Adapt voice to audience expectations and purpose |
 | 12. Add citations | Attribute evidence and strengthen argumentative credibility |
 
-## Templates
+## Sample Templates
 | Template | Table Version | Collapsible Version |
 |----------|----------------|----------------------|
 | **Research Report** | [t_research_report.md](t_research_report.md) | [c_research_report.md](c_research_report.md) |
