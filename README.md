@@ -6,7 +6,7 @@ A library of writing templates for reports, applications, communication, and aca
 |------|-----------------------|
 | 1. Choose a topic | Identify the specific problem worth exploring |
 | 2. Craft a thesis | Declare a directional, testable central claim |
-| 3. Select a template | Match structure to genre, purpose, audience |
+| 3. Select a [template](#templates) | Match structure to genre, purpose, audience |
 | 4. Shape the outline | Align sections tightly around supporting thesis |
 | 5. Write the introduction | Establish context, tension, and framing clearly |
 | 6. State the thesis | Present core argument and why it matters |
@@ -16,9 +16,6 @@ A library of writing templates for reports, applications, communication, and aca
 | 10. Revise for grammar | Improve clarity, structure, and linguistic precision |
 | 11. Revise for tone | Adapt voice to audience expectations and purpose |
 | 12. Add citations | Attribute evidence and strengthen argumentative credibility |
-
-
-
 
 ## Templates
 | Template | Table Version | Collapsible Version |
