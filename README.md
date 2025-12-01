@@ -1,7 +1,7 @@
 # Approach to Writing and Sample Templates
 
 Writing a strong report is like crossing a stream: each step matters, and each stone is an idea that moves you forward with purpose. 
-The template doesn’t tell you what to think—it simply shows the order of the stones so you can focus on your argument. 
+The template doesn’t tell you what to think: it simply shows the order of the stones so you can focus on your argument. 
 You choose the topic, you set the thesis, and you use the structure to keep your thinking on track.
 
 When you write, be clear. Make a point, support it, and show how it connects to your thesis. 
